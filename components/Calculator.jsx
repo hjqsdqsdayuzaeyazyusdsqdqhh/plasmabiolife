@@ -13,7 +13,7 @@ export default function Calculator({ rates = { newDonor: 115, returnDonor: 60 } 
       <div className="calc-row">
         <label>Donor Type</label>
         <div className="calc-toggle">
-          <button onClick={() => setIsNew(true)} className={`calc-btn ${isNew ? "active" : ""}`}>New</button>
+          <button onClick={() => setIsNew(true)} className={`calc-btn ${isNew ? "active" : ""}`}>New Donor</button>
           <button onClick={() => setIsNew(false)} className={`calc-btn ${isNew ? "" : "active"}`}>Returning</button>
         </div>
       </div>
