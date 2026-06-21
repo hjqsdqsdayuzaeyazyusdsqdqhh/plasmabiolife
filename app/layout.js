@@ -1,9 +1,11 @@
 import Link from "next/link";
+import LogoHorizontal from "../components/LogoHorizontal";
 import "./globals.css";
 export const metadata = {
   title: { default: "PlasmaBioLife - Plasma Donation Earnings Guide", template: "%s | PlasmaBioLife" },
   description: "Compare plasma donation pay rates, find local centers, and calculate your earnings with our free plasma donation calculator.",
   openGraph: { siteName: "PlasmaBioLife", type: "website" },
+  icons: { icon: "/icon.svg", apple: "/apple-icon.png" },
 };
 export default function RootLayout({ children }) {
   return (
@@ -16,7 +18,7 @@ export default function RootLayout({ children }) {
         <div className="topbar" />
         <nav className="nav">
           <div className="nav-inner">
-            <Link href="/" className="logo">PlasmaBioLife</Link>
+            <Link href="/" className="logo"><LogoHorizontal /></Link>
             <div className="nav-links">
               <Link href="/calculator">Calculator</Link>
               <Link href="/locations">Locations</Link>
