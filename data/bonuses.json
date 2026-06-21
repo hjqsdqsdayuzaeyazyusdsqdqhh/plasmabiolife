@@ -1,0 +1,37 @@
+[
+  {
+    "type": "new-donor",
+    "title": "New Donor Bonus",
+    "description": "First-time donors earn premium rates per donation during their introductory period.",
+    "averageValue": 115,
+    "slug": "new-donor-bonus"
+  },
+  {
+    "type": "monthly",
+    "title": "Monthly Donor Bonus",
+    "description": "Donors who complete 4+ donations per month receive additional bonus compensation.",
+    "averageValue": 50,
+    "slug": "monthly-bonus"
+  },
+  {
+    "type": "referral",
+    "title": "Referral Bonus",
+    "description": "Earn bonus compensation for referring friends and family who complete their first donation.",
+    "averageValue": 25,
+    "slug": "referral-bonus"
+  },
+  {
+    "type": "grand-opening",
+    "title": "Grand Opening Bonus",
+    "description": "Newly opened centers offer special grand opening bonuses to attract donors.",
+    "averageValue": 150,
+    "slug": "grand-opening-bonus"
+  },
+  {
+    "type": "seasonal",
+    "title": "Seasonal Promotion",
+    "description": "Limited-time seasonal promotions offering enhanced compensation for all donors.",
+    "averageValue": 75,
+    "slug": "seasonal-promotion"
+  }
+]

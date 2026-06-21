@@ -1,0 +1,74 @@
+[
+  {
+    "id": "biolife",
+    "name": "BioLife Plasma Services",
+    "shortName": "BioLife",
+    "slug": "biolife",
+    "newDonorRate": 115,
+    "returnDonorRate": 60,
+    "website": "https://www.biolifeplasma.com",
+    "description": "BioLife Plasma Services is one of the largest plasma donation networks in the United States, operated by Takeda Pharmaceutical Company. With hundreds of centers nationwide, BioLife offers competitive compensation for plasma donors.",
+    "color": "#0057a3",
+    "rating": 4.2
+  },
+  {
+    "id": "csl",
+    "name": "CSL Plasma",
+    "shortName": "CSL Plasma",
+    "slug": "csl-plasma",
+    "newDonorRate": 100,
+    "returnDonorRate": 50,
+    "website": "https://www.cslplasma.com",
+    "description": "CSL Plasma is a leading plasma collection network with centers across the United States and Europe. CSL operates as part of CSL Behring and offers competitive rates for new and returning donors.",
+    "color": "#004b87",
+    "rating": 4.0
+  },
+  {
+    "id": "octapharma",
+    "name": "Octapharma Plasma",
+    "shortName": "Octapharma",
+    "slug": "octapharma",
+    "newDonorRate": 90,
+    "returnDonorRate": 55,
+    "website": "https://www.octapharmaplasma.com",
+    "description": "Octapharma Plasma is a wholly-owned subsidiary of Octapharma AG, one of the largest human protein manufacturers in the world. They operate donation centers throughout the United States.",
+    "color": "#0066a1",
+    "rating": 3.9
+  },
+  {
+    "id": "grifols",
+    "name": "Grifols Plasma",
+    "shortName": "Grifols",
+    "slug": "grifols",
+    "newDonorRate": 95,
+    "returnDonorRate": 55,
+    "website": "https://www.grifolsplasma.com",
+    "description": "Grifols is a global healthcare company and one of the largest plasma collection networks worldwide. They operate donation centers under the Grifols Plasma brand across the United States.",
+    "color": "#0072b0",
+    "rating": 3.8
+  },
+  {
+    "id": "biomat",
+    "name": "Biomat USA (Grifols)",
+    "shortName": "Biomat USA",
+    "slug": "biomat-usa",
+    "newDonorRate": 85,
+    "returnDonorRate": 45,
+    "website": "https://www.biomatusa.com",
+    "description": "Biomat USA is part of the Grifols network of plasma donation centers. They offer competitive compensation for plasma donors with a focus on donor safety and comfort.",
+    "color": "#00843d",
+    "rating": 3.7
+  },
+  {
+    "id": "adma",
+    "name": "ADMA BioCenters",
+    "shortName": "ADMA",
+    "slug": "adma",
+    "newDonorRate": 80,
+    "returnDonorRate": 40,
+    "website": "https://www.admabiocenters.com",
+    "description": "ADMA BioCenters is a subsidiary of ADMA Biologics. They operate plasma collection centers that supply source plasma for the manufacturing of ADMA's specialty plasma-derived products.",
+    "color": "#003d7a",
+    "rating": 3.6
+  }
+]

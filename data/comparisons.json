@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "biolife-vs-csl",
+    "title": "BioLife vs CSL Plasma: Complete Comparison",
+    "companyA": "biolife",
+    "companyB": "csl",
+    "summary": "BioLife generally offers higher new donor rates ($115/donation) compared to CSL Plasma ($100/donation). Both companies have extensive networks, but BioLife tends to have more centers in major metropolitan areas.",
+    "ratingA": 4.2,
+    "ratingB": 4.0
+  },
+  {
+    "slug": "biolife-vs-octapharma",
+    "title": "BioLife vs Octapharma: Which Pays More?",
+    "companyA": "biolife",
+    "companyB": "octapharma",
+    "summary": "BioLife pays new donors $115 per donation while Octapharma pays approximately $90 per donation. BioLife also has a larger network of centers nationwide compared to Octapharma.",
+    "ratingA": 4.2,
+    "ratingB": 3.9
+  },
+  {
+    "slug": "biolife-vs-grifols",
+    "title": "BioLife vs Grifols: Donor Compensation Comparison",
+    "companyA": "biolife",
+    "companyB": "grifols",
+    "summary": "BioLife offers higher compensation rates for new donors ($115 vs $95) compared to Grifols. Both companies maintain high safety standards and offer convenient center locations.",
+    "ratingA": 4.2,
+    "ratingB": 3.8
+  },
+  {
+    "slug": "csl-vs-octapharma",
+    "title": "CSL Plasma vs Octapharma: Pay Rates Compared",
+    "companyA": "csl",
+    "companyB": "octapharma",
+    "summary": "CSL Plasma typically offers $100 per donation for new donors, while Octapharma offers approximately $90. CSL has a wider network of centers across more states.",
+    "ratingA": 4.0,
+    "ratingB": 3.9
+  },
+  {
+    "slug": "csl-vs-grifols",
+    "title": "CSL Plasma vs Grifols: Which Donation Center Is Better?",
+    "companyA": "csl",
+    "companyB": "grifols",
+    "summary": "CSL Plasma and Grifols offer competitive rates with CSL generally paying slightly more for new donors ($100 vs $95). Both have extensive center networks and strong safety protocols.",
+    "ratingA": 4.0,
+    "ratingB": 3.8
+  },
+  {
+    "slug": "octapharma-vs-grifols",
+    "title": "Octapharma vs Grifols: Donor Experience Comparison",
+    "companyA": "octapharma",
+    "companyB": "grifols",
+    "summary": "Octapharma and Grifols have similar compensation structures. Octapharma rates are approximately $90 for new donors while Grifols offers around $95. Center experiences vary by location.",
+    "ratingA": 3.9,
+    "ratingB": 3.8
+  },
+  {
+    "slug": "biolife-vs-csl-vs-octapharma",
+    "title": "BioLife vs CSL vs Octapharma: Which Pays the Most?",
+    "companyA": "biolife",
+    "companyB": "csl",
+    "extra": "octapharma",
+    "summary": "Among the three largest plasma donation companies, BioLife offers the highest new donor rates at $115 per donation, followed by CSL Plasma at $100 and Octapharma at $90.",
+    "ratingA": 4.2,
+    "ratingB": 4.0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "earningsPage": {
+    "headlinePool": [
+      "How Much Can You Earn Donating Plasma in {city}, {state}?",
+      "Plasma Donation Pay in {city}, {state}: Complete Guide",
+      "Donate Plasma in {city}, {state}: Pay, Bonuses & Tips"
+    ],
+    "introPool": [
+      "If you're looking to earn extra income in {city}, plasma donation is one of the most reliable ways to make money. With multiple donation centers available across {state}, {city} residents have convenient access to competitive compensation rates.",
+      "Plasma donation offers {city} residents a steady way to earn supplemental income. With centers conveniently located throughout the {state} area, you can donate safely and earn competitive pay.",
+      "For {city} residents exploring flexible income opportunities, plasma donation provides consistent earnings with a minimal time commitment. Here is everything you need to know about pay rates in your area."
+    ],
+    "payExplanationPool": [
+      "Plasma donation centers in {city} typically pay $50-$115 per donation. New donors earn the highest rates, often receiving $100-$115 per donation during their introductory period. Returning donors earn $40-$60 per donation. Most donors visit twice per week, earning $400-$920 in their first month.",
+      "The compensation structure for plasma donors in {city} rewards both new and returning donors. First-time donors can expect premium rates of $90-$115 per donation. Regular donors earn $40-$60 per visit. Donating twice weekly maximizes your monthly earnings."
+    ]
+  },
+  "companyPage": {
+    "headlinePool": [
+      "{company} Plasma Donation in {city}, {state}: Pay & Locations",
+      "{company} in {city}, {state}: Donation Rates and Center Info",
+      "Donate with {company} in {city}, {state}: Everything to Know"
+    ],
+    "introPool": [
+      "{company} operates conveniently located donation centers in {city}, {state}, offering competitive compensation for plasma donors. Whether you are a first-time donor or a regular contributor, {company} provides a clean, safe environment with professional staff.",
+      "For {city} residents looking to donate plasma, {company} offers accessible centers with competitive pay rates. The donation process is straightforward, and first-time donors receive special compensation rates."
+    ],
+    "centerDescriptionPool": [
+      "The {company} center in {city} features modern donation equipment, comfortable seating, and extended hours to accommodate busy schedules. Staff members guide donors through each step of the process, from check-in to post-donation refreshments.",
+      "Located conveniently in {city}, this {company} center maintains high standards of cleanliness and donor care. The facility uses state-of-the-art plasma collection technology to ensure a comfortable donation experience."
+    ]
+  },
+  "bonusPage": {
+    "headlinePool": [
+      "{bonus} in {city}, {state}: Current Plasma Promotions",
+      "{city} Plasma {bonus}: Earn Extra on Every Donation",
+      "Best Plasma {bonus} Deals in {city}, {state}"
+    ],
+    "introPool": [
+      "Plasma donation centers in {city} offer special {bonus} promotions to help you earn more. These limited-time offers can significantly increase your per-donation earnings. Here are the best {bonus} opportunities available right now in {city}, {state}.",
+      "Maximize your plasma donation earnings in {city} by taking advantage of {bonus} promotions. Centers across {state} regularly offer enhanced compensation to attract and retain donors."
+    ]
+  },
+  "comparisonPage": {
+    "headlinePool": [
+      "{comparisonTitle}: Which Is Better in {city}?",
+      "{comparisonTitle}: Side-by-Side for {city} Donors",
+      "{comparisonTitle}: Pay, Hours & Locations in {city}"
+    ],
+    "introPool": [
+      "Choosing the right plasma donation center in {city} can help you maximize your earnings. This comparison breaks down the key differences between these companies to help {city} residents make an informed decision.",
+      "For {city} plasma donors, understanding the differences between donation centers is key to maximizing earnings. Here is a detailed comparison of pay rates, hours, and locations."
+    ]
+  }
+}
