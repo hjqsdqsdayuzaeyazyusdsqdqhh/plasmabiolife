@@ -1,14 +1,14 @@
 {
   "general": [
-    {"q":"How much can I earn donating plasma?","a":"New donors can earn up to $115 per donation, while returning donors typically earn $40-$60 per donation. Monthly earnings range from $240 to $920 depending on donation frequency and current promotions."},
+    {"q":"How much can I earn donating plasma?","a":"New donors can earn up to $115 per donation, while returning donors typically earn $40-$65 per donation. Monthly earnings range from $240 to $920 depending on donation frequency and current promotions."},
     {"q":"How often can I donate plasma?","a":"You can donate plasma up to two times per week, with at least 48 hours between donations. Most donors average 8 donations per month."},
     {"q":"Is plasma donation safe?","a":"Yes, plasma donation is safe. All centers use sterile, single-use equipment and follow strict FDA guidelines. Donors receive a medical screening before their first donation."},
     {"q":"How long does a plasma donation take?","a":"The first visit takes 2-3 hours including screening. Subsequent donations typically take 60-90 minutes."},
     {"q":"Is plasma donation taxable?","a":"Yes, plasma donation compensation is considered taxable income by the IRS. You will receive a Form 1099-NEC if your earnings exceed $600 in a calendar year."}
   ],
   "biolife": [
-    {"q":"How much does BioLife pay per donation?","a":"BioLife pays new donors approximately $115 per donation and returning donors approximately $60 per donation. Rates vary by location and current promotions."},
-    {"q":"How much can I earn at BioLife per month?","a":"New donors at BioLife can earn up to $920 per month by donating 8 times. Returning donors typically earn $240-$480 per month."},
+    {"q":"How much does BioLife pay per donation?","a":"BioLife pays new donors approximately $115 per donation and returning donors approximately $65 per donation. Rates vary by location and current promotions."},
+    {"q":"How much can I earn at BioLife per month?","a":"New donors at BioLife can earn up to $920 per month by donating 8 times. Returning donors typically earn $260-$520 per month."},
     {"q":"Does BioLife have new donor bonuses?","a":"Yes, BioLife frequently offers new donor bonuses. First-time donors earn premium rates, typically around $115 per donation during their introductory period."}
   ],
   "csl": [
