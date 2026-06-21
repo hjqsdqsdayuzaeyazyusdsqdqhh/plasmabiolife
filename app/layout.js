@@ -5,7 +5,7 @@ export const metadata = {
   title: { default: "PlasmaBioLife - Plasma Donation Earnings Guide", template: "%s | PlasmaBioLife" },
   description: "Compare plasma donation pay rates, find local centers, and calculate your earnings with our free plasma donation calculator.",
   openGraph: { siteName: "PlasmaBioLife", type: "website" },
-  icons: { icon: "/icon.svg", apple: "/apple-icon.png" },
+  icons: { icon: "/favicon.svg", apple: "/apple-icon.svg" },
 };
 export default function RootLayout({ children }) {
   return (
@@ -13,6 +13,8 @@ export default function RootLayout({ children }) {
       <head>
         <meta name="google-adsense-account" content="ca-pub-xxxxxxxxxxxxxx" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxx" crossOrigin="anonymous" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="apple-touch-icon" href="/apple-icon.svg" />
       </head>
       <body>
         <div className="topbar" />
